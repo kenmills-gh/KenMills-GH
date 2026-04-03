@@ -18,7 +18,4 @@ I am a Backend Software Engineer with a background in enterprise IT management a
 *   **LinkedIn:** [linkedin.com/in/kmills-swe](https://www.linkedin.com/in/kmills-swe)
 *   **Email:** kenmills89x@gmail.com
 
----
 
-### ⚡ GitHub Stats
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenMills-GH&show_icons=true&theme=dark&cache_seconds=86400)
