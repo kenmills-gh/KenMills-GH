@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kenneth Mills 👋
 
-<!--
-**KenMills-GH/KenMills-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Software Engineer | Active TS/SCI Cleared
 
-Here are some ideas to get you started:
+I am a Backend Software Engineer with a background in enterprise IT management and defense network operations. I specialize in building secure, relational backend systems, prioritizing data integrity, strict access control, and deployment automation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+*   **Building OpsTrack:** A full-stack tactical task management system featuring strict Role-Based Access Control (RBAC), database-level triggers, and secure RESTful API endpoints.
+*   **Currently Learning:** Continuously sharpening my skills in **Data Structures and Algorithms (DSA)** and advanced PostgreSQL database optimization.
+
+### 🛠️ Tools & Technologies
+*   **Languages:** JavaScript, SQL
+*   **Backend:** Node.js, Express.js, RESTful Architecture
+*   **Databases:** PostgreSQL, Relational Database Design
+*   **Infrastructure & Security:** Git, Docker, Postman, Vercel, Helmet.js
+
+### 📫 How to Reach Me
+*   **LinkedIn:** [linkedin.com/in/kmills-swe](https://www.linkedin.com/in/kmills-swe)
+*   **Email:** kenmills89x@gmail.com
+
+---
+
+### ⚡ GitHub Stats
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenmills-gh&show_icons=true&theme=dark)
