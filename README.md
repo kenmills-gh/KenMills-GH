@@ -21,4 +21,4 @@ I am a Backend Software Engineer with a background in enterprise IT management a
 ---
 
 ### ⚡ GitHub Stats
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenmills-gh&show_icons=true&theme=dark)
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenMills-GH&show_icons=true&theme=dark&cache_seconds=86400)
