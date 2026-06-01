@@ -5,7 +5,6 @@
 I am a Backend Software Engineer with a background in enterprise IT management and defense network operations. I specialize in building secure, relational backend systems, prioritizing data integrity, strict access control, and deployment automation. 
 
 ### 🔭 What I'm Working On
-*   **Building OpsTrack:** A full-stack tactical task management system featuring strict Role-Based Access Control (RBAC), database-level triggers, and secure RESTful API endpoints.
 *   **Currently Learning:** Continuously sharpening my skills in **Data Structures and Algorithms (DSA)** and advanced PostgreSQL database optimization.
 
 ### 🛠️ Tools & Technologies
